@@ -1,43 +1,42 @@
 1:"$Sreact.fragment"
-2:I[3303,["422","static/chunks/422-4d9904b380b9d17d.js","8409","static/chunks/8409-0049b4923afd3ae8.js","209","static/chunks/209-d5ac367d2b6877bb.js","4213","static/chunks/4213-955664c518e7bc0b.js","6544","static/chunks/6544-a77f22143cb5af5f.js","4883","static/chunks/4883-c93879aaba9d18c7.js","2324","static/chunks/app/modules/%5Bslug%5D/page-f809e2eb2fcc337a.js"],"ModuleDetailView"]
+2:I[3303,["422","static/chunks/422-4d9904b380b9d17d.js","8409","static/chunks/8409-0049b4923afd3ae8.js","209","static/chunks/209-d5ac367d2b6877bb.js","4213","static/chunks/4213-955664c518e7bc0b.js","6544","static/chunks/6544-a77f22143cb5af5f.js","4883","static/chunks/4883-ad284c54341cc9eb.js","3623","static/chunks/3623-0746416e073843d0.js","2324","static/chunks/app/modules/%5Bslug%5D/page-3ea747c899b28f8d.js"],"ModuleDetailView"]
 3:I[484,[],"OutletBoundary"]
 4:"$Sreact.suspense"
 8:I[484,[],"ViewportBoundary"]
 9:I[484,[],"MetadataBoundary"]
 7:X
-a:T4d5,Hospital Software,Hospital Management System,Hospital Management Software,HMS Software,Best Hospital Software in India,Cloud Hospital Software,Hospital ERP Software,Hospital Information System (HIS),OPD IPD Management Software,Hospital Billing Software,NABH Compliant Hospital Software,ABDM M1 M2 M3 Compliant Software,Clinic Software,Clinic Management System,Clinic Management Software,CMS Software,Doctor Practice Management Software,Polyclinic Software,Doctor Prescription Software,OPD Clinic Management Software,Dental Clinic Software,Online Doctor Appointment Software,Lab Software,Diagnostic Lab Software,Laboratory Information System,Laboratory Management Software,LIS Software,LMS Software,Pathology Lab Software,Bi-Directional Analyzer Interfacing Software,Lab Barcode Sample Tracking Software,NABL Compliant Lab Software,Pharmacy Software,Pharmacy Management System,Pharmacy Management Software,PMS Software,Medical Store Billing Software,Chemist Shop Software,FEFO Batch Expiry Pharmacy Software,Hospital Pharmacy POS Software,Retail Medical Billing Software,Electronic Medical Records (EMR),Electronic Health Records (EHR),TPA Cashless Insurance Claim Software,Digital Prescription Maker,Medsky HMS,Medsky Healthcare Software21:X
-21:C
-0:{"buildId":"9vV6yDNfyEEnKNWTaOrDu","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"nursing"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Nursing Station & Care Management | Hospital Software | Medsky HMS - Hospital, Clinic, Lab & Pharmacy Software"}],["$","meta","1",{"name":"description","content":"Manage shift handovers, patient vitals charting, doctor order execution, IV fluid monitoring, intake/output balances, and consumable billing."}],["$","meta","2",{"name":"application-name","content":"Medsky HMS"}],["$","link","3",{"rel":"author","href":"https://medskyhms.com"}],["$","meta","4",{"name":"author","content":"Medsky Healthcare Technologies"}],["$","link","5",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","6",{"name":"keywords","content":"$a"}],["$","meta","7",{"name":"referrer","content":"origin-when-cross-origin"}],["$","meta","8",{"name":"creator","content":"Medsky Healthcare Technologies"}],["$","meta","9",{"name":"publisher","content":"Medsky Healthcare Technologies"}],["$","meta","10",{"name":"robots","content":"index, follow"}],["$","meta","11",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","12",{"name":"category","content":"Medical Software"}],["$","meta","13",{"name":"classification","content":"Healthcare IT, Hospital Management, Clinic CMS, Lab LMS, Pharmacy PMS"}],["$","meta","14",{"name":"rating","content":"General"}],["$","meta","15",{"name":"coverage","content":"Worldwide"}],["$","meta","16",{"name":"distribution","content":"Global"}],["$","meta","17",{"name":"target","content":"all"}],["$","meta","18",{"name":"format-detection","content":"telephone=no"}],["$","link","19",{"rel":"canonical","href":"https://medskyhms.com/modules/nursing/"}],["$","meta","20",{"property":"og:title","content":"Nursing Station & Care Management | Hospital Software | Medsky HMS - Hospital, Clinic, Lab & Pharmacy Software"}],["$","meta","21",{"property":"og:description","content":"Manage shift handovers, patient vitals charting, doctor order execution, IV fluid monitoring, intake/output balances, and consumable billing."}],["$","meta","22",{"property":"og:url","content":"https://medskyhms.com/modules/nursing/"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d"]}]}]}],null]}],"isPartial":"$@1e","staleTime":"$7","varyParams":null},{"rsc":"$L1f","isPartial":"$@20","staleTime":"$7","varyParams":"$21"},{"rsc":"$L22","isPartial":"$@23","staleTime":"$7","varyParams":"$21"}],"isUpgradeableISRFallback":false,"a":"$@24","rootVaryParams":null,"needsRuntimeRequest":"$@25"}
-26:I[6869,[],"IconMark"]
-27:I[7121,[],""]
-28:I[4581,[],""]
+a:T4d5,Hospital Software,Hospital Management System,Hospital Management Software,HMS Software,Best Hospital Software in India,Cloud Hospital Software,Hospital ERP Software,Hospital Information System (HIS),OPD IPD Management Software,Hospital Billing Software,NABH Compliant Hospital Software,ABDM M1 M2 M3 Compliant Software,Clinic Software,Clinic Management System,Clinic Management Software,CMS Software,Doctor Practice Management Software,Polyclinic Software,Doctor Prescription Software,OPD Clinic Management Software,Dental Clinic Software,Online Doctor Appointment Software,Lab Software,Diagnostic Lab Software,Laboratory Information System,Laboratory Management Software,LIS Software,LMS Software,Pathology Lab Software,Bi-Directional Analyzer Interfacing Software,Lab Barcode Sample Tracking Software,NABL Compliant Lab Software,Pharmacy Software,Pharmacy Management System,Pharmacy Management Software,PMS Software,Medical Store Billing Software,Chemist Shop Software,FEFO Batch Expiry Pharmacy Software,Hospital Pharmacy POS Software,Retail Medical Billing Software,Electronic Medical Records (EMR),Electronic Health Records (EHR),TPA Cashless Insurance Claim Software,Digital Prescription Maker,Medsky HMS,Medsky Healthcare Software20:X
+20:C
+0:{"buildId":"yerhwtEPyVMEgIti_yKvi","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"nursing"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Nursing Station & Care Management | Hospital Software | Medsky"}],["$","meta","1",{"name":"description","content":"Manage shift handovers, patient vitals charting, doctor order execution, IV fluid monitoring, intake/output balances, and consumable billing."}],["$","meta","2",{"name":"application-name","content":"Medsky HMS"}],["$","link","3",{"rel":"author","href":"https://medskyhms.com"}],["$","meta","4",{"name":"author","content":"Medsky Healthcare Technologies"}],["$","link","5",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","6",{"name":"keywords","content":"$a"}],["$","meta","7",{"name":"referrer","content":"origin-when-cross-origin"}],["$","meta","8",{"name":"creator","content":"Medsky Healthcare Technologies"}],["$","meta","9",{"name":"publisher","content":"Medsky Healthcare Technologies"}],["$","meta","10",{"name":"robots","content":"index, follow"}],["$","meta","11",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","12",{"name":"category","content":"Medical Software"}],["$","meta","13",{"name":"classification","content":"Healthcare IT, Hospital Management, Clinic CMS, Lab LMS, Pharmacy PMS"}],["$","meta","14",{"name":"rating","content":"General"}],["$","meta","15",{"name":"coverage","content":"Worldwide"}],["$","meta","16",{"name":"distribution","content":"Global"}],["$","meta","17",{"name":"target","content":"all"}],["$","meta","18",{"name":"format-detection","content":"telephone=no"}],["$","link","19",{"rel":"canonical","href":"https://medskyhms.com/modules/nursing/"}],["$","meta","20",{"property":"og:title","content":"Nursing Station & Care Management | Hospital Software | Medsky"}],["$","meta","21",{"property":"og:description","content":"Manage shift handovers, patient vitals charting, doctor order execution, IV fluid monitoring, intake/output balances, and consumable billing."}],["$","meta","22",{"property":"og:url","content":"https://medskyhms.com/modules/nursing/"}],["$","meta","23",{"property":"og:site_name","content":"Medsky - Best Hospital & Clinic Management Software"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c"]}]}]}],null]}],"isPartial":"$@1d","staleTime":"$7","varyParams":null},{"rsc":"$L1e","isPartial":"$@1f","staleTime":"$7","varyParams":"$20"},{"rsc":"$L21","isPartial":"$@22","staleTime":"$7","varyParams":"$20"}],"isUpgradeableISRFallback":false,"a":"$@23","rootVaryParams":null,"needsRuntimeRequest":"$@24"}
+25:I[6869,[],"IconMark"]
+26:I[7121,[],""]
+27:I[4581,[],""]
 5:null
-b:["$","meta","23",{"property":"og:site_name","content":"Medsky HMS"}]
-c:["$","meta","24",{"property":"og:locale","content":"en_US"}]
-d:["$","meta","25",{"property":"og:image","content":"https://medskyhms.com/images/medsky-og.jpg"}]
-e:["$","meta","26",{"property":"og:image:width","content":"1200"}]
-f:["$","meta","27",{"property":"og:image:height","content":"630"}]
-10:["$","meta","28",{"property":"og:image:alt","content":"Medsky HMS - Hospital, Clinic, Lab and Pharmacy Software"}]
-11:["$","meta","29",{"property":"og:type","content":"website"}]
-12:["$","meta","30",{"name":"twitter:card","content":"summary_large_image"}]
-13:["$","meta","31",{"name":"twitter:site","content":"@medskyhms"}]
-14:["$","meta","32",{"name":"twitter:creator","content":"@medskyhms"}]
-15:["$","meta","33",{"name":"twitter:title","content":"Nursing Station & Care Management | Hospital Software | Medsky HMS - Hospital, Clinic, Lab & Pharmacy Software"}]
-16:["$","meta","34",{"name":"twitter:description","content":"Manage shift handovers, patient vitals charting, doctor order execution, IV fluid monitoring, intake/output balances, and consumable billing."}]
-17:["$","meta","35",{"name":"twitter:image","content":"https://medskyhms.com/images/medsky-og.jpg"}]
-18:["$","link","36",{"rel":"shortcut icon","href":"/medsky_logo.png"}]
-19:["$","link","37",{"rel":"icon","href":"/favicon.ico?62bbefeeba3e4693","type":"image/x-icon","sizes":"500x500"}]
-1a:["$","link","38",{"rel":"icon","href":"/medsky_logo.png","type":"image/png"}]
-1b:["$","link","39",{"rel":"icon","href":"/favicon.ico","sizes":"any"}]
-1c:["$","link","40",{"rel":"apple-touch-icon","href":"/medsky_logo.png"}]
-1d:["$","$L26","41",{}]
-1f:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
-22:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
-25:true
+b:["$","meta","24",{"property":"og:locale","content":"en_US"}]
+c:["$","meta","25",{"property":"og:image","content":"https://medskyhms.com/images/medsky-og.jpg"}]
+d:["$","meta","26",{"property":"og:image:width","content":"1200"}]
+e:["$","meta","27",{"property":"og:image:height","content":"630"}]
+f:["$","meta","28",{"property":"og:image:alt","content":"Medsky - Best Hospital & Clinic Management Software - Hospital, Clinic, Lab and Pharmacy Software"}]
+10:["$","meta","29",{"property":"og:type","content":"website"}]
+11:["$","meta","30",{"name":"twitter:card","content":"summary_large_image"}]
+12:["$","meta","31",{"name":"twitter:site","content":"@medskyhms"}]
+13:["$","meta","32",{"name":"twitter:creator","content":"@medskyhms"}]
+14:["$","meta","33",{"name":"twitter:title","content":"Nursing Station & Care Management | Hospital Software | Medsky"}]
+15:["$","meta","34",{"name":"twitter:description","content":"Manage shift handovers, patient vitals charting, doctor order execution, IV fluid monitoring, intake/output balances, and consumable billing."}]
+16:["$","meta","35",{"name":"twitter:image","content":"https://medskyhms.com/images/medsky-og.jpg"}]
+17:["$","link","36",{"rel":"shortcut icon","href":"/medsky_logo.png"}]
+18:["$","link","37",{"rel":"icon","href":"/favicon.ico?62bbefeeba3e4693","type":"image/x-icon","sizes":"500x500"}]
+19:["$","link","38",{"rel":"icon","href":"/medsky_logo.png","type":"image/png"}]
+1a:["$","link","39",{"rel":"icon","href":"/favicon.ico","sizes":"any"}]
+1b:["$","link","40",{"rel":"apple-touch-icon","href":"/medsky_logo.png"}]
+1c:["$","$L25","41",{}]
+1e:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+21:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+24:true
 7:300
 7:C
-24:0
-20:"$undefined"
-23:"$undefined"
+23:0
+1f:"$undefined"
+22:"$undefined"
 6:"$undefined"
-1e:"$undefined"
+1d:"$undefined"

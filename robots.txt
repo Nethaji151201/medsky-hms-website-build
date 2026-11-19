@@ -10,5 +10,5 @@ User-Agent: Bingbot
 Allow: /
 Disallow: /api/
 
-Host: https://medskyhms.com
-Sitemap: https://medskyhms.com/sitemap.xml
+Host: https://medsky.com
+Sitemap: https://medsky.com/sitemap.xml
